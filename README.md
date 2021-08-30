@@ -2,7 +2,7 @@
 
 https://t.me/addtheme/hydrogen
 
-![](screenshots/hydrogen.jpg)
+[![Hydrogen colorscheme](screenshots/hydrogen.jpg)](https://t.me/addtheme/hydrogen)
 <br />
 <br />
 <br />
@@ -10,11 +10,11 @@ https://t.me/addtheme/hydrogen
 
 https://t.me/addtheme/helium
 
-![](screenshots/helium.jpg)
+[![Helium colorscheme](screenshots/helium.jpg)](https://t.me/addtheme/helium)
 <br />
 <br />
 <br />
 
 https://t.me/addtheme/glaucous
 
-![](screenshots/glaucous.jpg)
+[![Glaucous colorscheme](screenshots/glaucous.jpg)](https://t.me/addtheme/glaucous)
